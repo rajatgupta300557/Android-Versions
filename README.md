@@ -1,5 +1,5 @@
 # Android-Versions
-All About Android from 1.0 to Till Now in detail versions.
+Explore Android's ongoing evolution with this visual timeline of versions, starting B.C. (Before Cupcake) and going all the way to 2020's Android 11 release. A living history from 1.0 to 11.
 
 # Android versions 1.0 to 1.1: The early days
 The early days Android made its official public debut in 2008 with Android 1.0 — a release so ancient it didn't even have a cute codename.
