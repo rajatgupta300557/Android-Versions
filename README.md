@@ -1,5 +1,5 @@
 # Android-Versions
-All About Android from 1.0 to Till Now
+All About Android from 1.0 to Till Now in detail versions.
 
 # Android versions 1.0 to 1.1: The early days
 The early days Android made its official public debut in 2008 with Android 1.0 — a release so ancient it didn't even have a cute codename.
