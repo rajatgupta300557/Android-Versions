@@ -72,3 +72,7 @@ Time required: 2 minutes
 Inconvenience level: 9/10
 Last but not least, Android has the ability to back up your system data and then restore much of your system setup when the need arises. That's a supremely handy option to have — but it invariably requires some of your information to be stored within Google Drive in order to work.
 
+
+
+
+# Thanks for reading ! Have a nice day :)
